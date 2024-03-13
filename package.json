@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/vet-citas-react",
+  "homepage": "https://movgto.github.io/vet-citas-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
