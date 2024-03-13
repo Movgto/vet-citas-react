@@ -1,4 +1,3 @@
-import './App.css'
 import Header from './components/Header'
 import Formulario from './components/Formulario'
 import ListaPacientes from './components/ListaPacientes'
