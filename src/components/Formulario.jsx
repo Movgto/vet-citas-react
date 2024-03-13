@@ -88,8 +88,8 @@ const Formulario = ({ addPatient, patient, editPatient }) => {
 
   return (
     <div className="md:w-2/5 flex flex-col gap-4">
-      <h2 className="font-bold text-3xl">Seguimiento de pacientes</h2>
-      <p>
+      <h2 className="font-bold text-3xl text-center">Seguimiento de pacientes</h2>
+      <p className='text-center'>
         <span className="font-bold text-teal-600">Añade</span>
         {" "}pacientes y
         <span className="font-bold text-teal-600">{" "}administralos</span>
