@@ -1,9 +1,9 @@
 {
   "name": "vet-appointments",
-  "homepage": "https://movgto.github.io/vet-citas-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://movgto.github.io/vet-citas-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
